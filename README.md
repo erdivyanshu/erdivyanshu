@@ -1,4 +1,4 @@
-## Hey there 👋, This is Divyanshu Yadav <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=erdivyanshu.erdivyanshu" />
+## Hey there 👋, This is Divyanshu Yadav <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=erdivyanshu.erdivyanshu" />
 ### 👨🏻‍💻 About Me
 <hr>
 
