@@ -2,7 +2,7 @@
 ### 👨🏻‍💻 About Me
 <hr>
 
-🎓 Graduate from Motilal Nehru National Institute of Technology (MNNIT), Allahabad\
+🎓 Graduated from Motilal Nehru National Institute of Technology (MNNIT), Allahabad\
 💼 1.5+ years of experience in the tech field, working across modern development stacks\
 💡 Passionate about Software Development and building scalable, cutting-edge solutions\
 🤝 Love collaborating with like-minded developers and tech enthusiasts\
