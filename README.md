@@ -2,10 +2,10 @@
 ### 👨🏻‍💻 About Me
 <hr>
 
-🎓 Graduate from Motilal Nehru National Institute of Technology (MNNIT), Allahabad
-💼 1.5+ years of experience in the tech field, working across modern development stacks
-💡 Passionate about Software Development and building scalable, cutting-edge solutions
-🤝 Love collaborating with like-minded developers and tech enthusiasts
+🎓 Graduate from Motilal Nehru National Institute of Technology (MNNIT), Allahabad\
+💼 1.5+ years of experience in the tech field, working across modern development stacks\
+💡 Passionate about Software Development and building scalable, cutting-edge solutions\
+🤝 Love collaborating with like-minded developers and tech enthusiasts\
 ✉️ You can reach out to me via email at erdivyanshu.work@gmail.com.
 <img alt="Coding " src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="30%" height="30%"/>
 ### 🛠 &nbsp;Tech Stack
