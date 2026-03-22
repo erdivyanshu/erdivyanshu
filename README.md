@@ -2,9 +2,10 @@
 ### 👨🏻‍💻 About Me
 <hr>
 
-🎓 I'm an Chemical Engineering Undergraduate at Motilal Nehru National Institute of Technology, Allahabad (MNNIT).\
-💡 Interested in working alongside like minded people enthusiastic about Software Development or developing cutting edge tech.\
-🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms.\
+🎓 Graduate from Motilal Nehru National Institute of Technology (MNNIT), Allahabad
+💼 1.5+ years of experience in the tech field, working across modern development stacks
+💡 Passionate about Software Development and building scalable, cutting-edge solutions
+🤝 Love collaborating with like-minded developers and tech enthusiasts
 ✉️ You can reach out to me via email at erdivyanshu.work@gmail.com.
 <img alt="Coding " src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="30%" height="30%"/>
 ### 🛠 &nbsp;Tech Stack
@@ -12,15 +13,28 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+
 ![Node.js](https://img.shields.io/badge/-nodejs-05122A?style=flat&logo=node.js&logoColor=FFA518)&nbsp;
-![Django](https://img.shields.io/badge/-django-05122A?style=flat&logo=django&logoColor=FFA518)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![Django](https://img.shields.io/badge/-django-05122A?style=flat&logo=django)&nbsp;
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Androidstudio](https://img.shields.io/badge/-androidstudio-05122A?style=flat&logo=androidstudio&logoColor=FFA518)
+
+![AI](https://img.shields.io/badge/-AI-05122A?style=flat&logo=openai)&nbsp;
+![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <hr>
